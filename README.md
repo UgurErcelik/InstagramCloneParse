@@ -7,3 +7,7 @@ I have done basic social media app like a instagram.In this part,my app contains
 And then,if you choose add post,this part is goint to come.
 
 ![Adsız4](https://user-images.githubusercontent.com/46873580/69449503-1e0cb600-0d6c-11ea-94fb-d3b7d171bc65.png)
+
+But first,you must be log in :)
+
+![Adsız5](https://user-images.githubusercontent.com/46873580/69449686-8196e380-0d6c-11ea-8bcf-46a3f9280a61.png)
